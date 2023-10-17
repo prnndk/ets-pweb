@@ -1,0 +1,53 @@
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: azure;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.carousel-inner {
+  padding: 1em;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #2a9d8f;
+  border: #2a9d8f;
+}
+.btn-primary {
+  background-color: #264653;
+  color: white;
+  border: #264653;
+}
+.btn-secondary:hover {
+  color: black;
+  background-color: #f4a261;
+  border: #f4a261;
+}
+.btn-secondary {
+  background-color: #e9c46a;
+  color: white;
+  border: #e9c46a;
+}
+.btn-outline-secondary {
+  color: #e76f51;
+  border-color: #e76f51;
+}
+.btn-outline-secondary:hover {
+  background-color: #e76f51;
+  color: white;
+  border-color: #e76f51;
+}
+.bg-custom {
+  background-color: #e76f51;
+}
+.btn-outline-primary {
+  border-color: #e9c46a;
+  color: #e9c46a;
+}
+.btn-outline-primary:hover {
+  background-color: #e9c46a;
+  color: white;
+  border-color: #e9c46a;
+}
